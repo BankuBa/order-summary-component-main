@@ -16,11 +16,11 @@ body {
   background-color: hsl(224, 13%, 77%);
   height: 500px;
   width: 100%;
-  background-position: top; 
-  background-repeat: no-repeat; 
+  background-position: top;
+  background-repeat: no-repeat;
   background-size: cover;
-  font-family: 'Outfit', sans-serif;
-font-family: 'Red Hat Display', sans-serif;
+  font-family: "Outfit", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
 }
 
 .background {
@@ -119,5 +119,5 @@ font-family: 'Red Hat Display', sans-serif;
 }
 
 .cancel:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
